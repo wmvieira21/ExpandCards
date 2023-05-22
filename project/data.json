@@ -1,0 +1,7 @@
+{
+    "title": "Test load json",
+    "hobbies": [
+        {"name": "swim"},
+        {"name": "cooking"}
+    ]
+}
