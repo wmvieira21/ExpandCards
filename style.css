@@ -37,7 +37,7 @@ main {
     width: 8rem;
     height: 80%;
     border-radius: 10px;
-    transition: width 1s;
+    transition: width 800ms ease-in;
 }
 
 .panel-dimensions:hover {
@@ -82,7 +82,7 @@ main {
 
 .active {
     width: 50rem;
-    transition: all 1s;
+    transition: all 800ms ease-in;
 }
 
 h3 {
